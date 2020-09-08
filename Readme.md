@@ -9,3 +9,9 @@ URL для просмотра приложения: https://dictionary-18693.web
 -WebPack
 
 В папке src содержатся все исходные файлы.
+
+Запуск проекта:
+
+npm i
+
+npm start
